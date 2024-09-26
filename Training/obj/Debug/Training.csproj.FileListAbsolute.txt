@@ -1,0 +1,14 @@
+D:\vscode\Purple\Training Project\Training\bin\Debug\Training.exe.config
+D:\vscode\Purple\Training Project\Training\bin\Debug\Training.exe
+D:\vscode\Purple\Training Project\Training\bin\Debug\Training.pdb
+D:\vscode\Purple\Training Project\Training\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.csproj.AssemblyReference.cache
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.fmGenerateRrandomCharactersScreen.resources
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.fmMainMenue.resources
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.fmNumberRepeatedScreen.resources
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.Properties.Resources.resources
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.csproj.GenerateResource.cache
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.csproj.Up2Date
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.exe
+D:\vscode\Purple\Training Project\Training\obj\Debug\Training.pdb
